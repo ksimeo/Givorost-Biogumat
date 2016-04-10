@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GivoRostAdmin:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GivoRostCustomsAdmin.war">
+      <element id="artifact" artifact-name="GivoRostAdmin:war exploded" />
+    </root>
+  </artifact>
+</component>

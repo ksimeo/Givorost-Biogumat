@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GivoRostView:war">
+    <output-path>$PROJECT_DIR$/GivoRostView/target</output-path>
+    <root id="archive" name="GivorostCustomsJ2EE.war">
+      <element id="artifact" artifact-name="GivoRostView:war exploded" />
+    </root>
+  </artifact>
+</component>

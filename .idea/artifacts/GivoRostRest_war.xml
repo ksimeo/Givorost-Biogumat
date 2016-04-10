@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GivoRostRest:war">
+    <output-path>$PROJECT_DIR$/GivoRostRest/target</output-path>
+    <root id="archive" name="GivoRost.war">
+      <element id="artifact" artifact-name="GivoRostRest:war exploded" />
+    </root>
+  </artifact>
+</component>
